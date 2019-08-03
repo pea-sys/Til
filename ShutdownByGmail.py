@@ -7,7 +7,8 @@ from time import sleep
 from datetime import datetime, date, timedelta
 import os
 import math
-
+## 特定のアドレスから送られてきたメールのタイトルにshutdownの文字列が含まれていた場合にPC電源OFFします
+## ガラケーしか持ち歩いていないので個人的にメール一択
 class GmailAPI:
     def __init__(self):
         # If modifying these scopes, delete the file token.json.
