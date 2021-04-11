@@ -1,0 +1,112 @@
+html {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+header {
+  color: #fff;
+  background-color: #333;
+  border: 5px solid #000;
+}
+
+header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+header li {
+  display: block;
+}
+
+header a {
+  display: block;
+  padding: 0.5em 1em;
+  color: #fff;
+  text-decoration: none;
+  border-top: 1px solid #999;
+}
+
+header .title {
+  padding: 1em;
+  font-size: 150%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+main {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+}
+
+main h1 {
+  margin-top: 0;
+}
+
+.cards {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
+  gap: 1em;
+}
+
+.cards li {
+  border: 5px solid #000;
+}
+
+.cards h2 {
+  margin: 0;
+  padding: 0.5em 1em;
+  color: #fff;
+  background-color: #333;
+}
+
+.cards .inner {
+  padding: 0.5em 1em;
+}
+
+.sidebar {
+  padding: 0.5em 1em;
+  color: #fff;
+  background-color: #333;
+  border: 5px solid #000;
+}
+
+@media screen and (min-width: 40rem) {
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  header ul {
+    display: flex;
+  }
+
+  header a {
+    border-top: none;
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
+}
