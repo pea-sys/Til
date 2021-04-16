@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Simple setInterval clock</title>
+    <style>
+      p {
+        font-family: sans-serif;
+      }
+      button {
+        width: 120px;
+      }
+    </style>
+  </head>
+  <body>
+    <p class="clock"></p>
+    <p><button class="start">start</button></p>
+    <p><button class="stop">stop</button></p>
+    <p><button class="reset">reset</button></p>
+    <script>
+      const startBtn = document.querySelector(".start");
+      const stopBtn = document.querySelector(".stop");
+      const resetBtn = document.querySelector(".reset");
+
+      stopBtn.disabled = true;
+      document.querySelector(".clock").textContent = 0;
+      let i = 1;
+      startBtn.addEventListener("click", (interval) => {
+        startBtn.disabled = true;
+        stopBtn.disabled = false;
+        myInterval = setInterval(function run() {
+          document.querySelector(".clock").textContent = i;
+          i++;
+        }, 1000);
+        console.log("click startBtn");
+      });
+
+      stopBtn.addEventListener("click", () => {
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+        clearInterval(myInterval);
+        console.log("click stopBtn");
+      });
+      resetBtn.addEventListener("click", () => {
+        startBtn.disabled = false;
+        stopBtn.disabled = true;
+        clearInterval(myInterval);
+        i = 0;
+        document.querySelector(".clock").textContent = i;
+        console.log("click resetBtn");
+      });
+    </script>
+  </body>
+</html>
