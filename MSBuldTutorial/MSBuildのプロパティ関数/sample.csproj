@@ -1,0 +1,21 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Path1>c:\users\</Path1>
+    <Today>$([System.DateTime]::Now)</Today>
+    <NewGuid>$([System.Guid]::NewGuid())</NewGuid>
+    <GitVersionHeightWithOffset>$([System.Text.RegularExpressions.Regex]::Replace("$(PrereleaseVersion)", "^.*?(\d+)$", "$1", "System.Text.RegularExpressions.RegexOptions.ECMAScript"))</GitVersionHeightWithOffset>
+    <Value1>$([MSBuild]::ValueOrDefault('$(UndefinedValue)', 'a'))</Value1>
+  </PropertyGroup>
+
+
+  <Target Name = "StringProperty">
+    <Message Text ="$(Path1.Substring(0,3))" />
+  </Target>
+  <Target Name = "StaticProperty">
+    <Message Text ="$(Today)" />
+    <Message Text ="$(NewGuid)" />
+  </Target>
+  <Target Name = "ValueOrDefault">
+     <Message Text="Value1 = $(Value1)" />
+  </Target>
+</Project>
