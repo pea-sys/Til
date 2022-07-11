@@ -1,0 +1,14 @@
+#!/bin/sh
+
+
+echo "dotnet build"
+
+dotnet clean; dotnet build HelloWorld/HelloWorld.csproj
+rc=$?
+
+if [[ $rc != 0 ]] ; then
+    echo -e "build failed"
+    exit $rc
+fi
+
+exit 0
