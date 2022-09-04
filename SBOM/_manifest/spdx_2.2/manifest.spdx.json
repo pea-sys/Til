@@ -1,0 +1,1278 @@
+{
+  "files": [
+    {
+      "fileName": "./DotNetty.Buffers.dll",
+      "SPDXID": "SPDXRef-File--DotNetty.Buffers.dll-73D26FE90F85431007400541EB5B9581CCC533CB",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "5157d98f41c0c549fcd388427d755cc0c3ba65721107986bfab79719bd44c079"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "73d26fe90f85431007400541eb5b9581ccc533cb"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./appsettings.json",
+      "SPDXID": "SPDXRef-File--appsettings.json-5F1D4EECB4E6935B25B4E5F7DD74947A6002792D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "677ef8265383dfbdc16a75a7cf9b219ee88530791947bae367c02735a49a89d5"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5f1d4eecb4e6935b25b4e5f7dd74947a6002792d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./dotnetty.com.pfx",
+      "SPDXID": "SPDXRef-File--dotnetty.com.pfx-88B8E4D05BCB783ED7C20584C3DE4B4A049E875D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4d8bcd0fc4322a3094757420f56ed101faf26e8a96f0d7b488af8ea2fddc31f9"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "88b8e4d05bcb783ed7c20584c3de4b4a049e875d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Configuration.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Configuration.dll-5C5AD43797BBE3B9AB09D9B60CA34F2053F75EEC",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "567cce7f8eb0cf3bb445ba455af1fdb9c4e0afbb6e10bbe8c3930682295182d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5c5ad43797bbe3b9ab09d9b60ca34f2053f75eec"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Configuration.Json.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Configuration.Json.dll-182A3CDC49FEBC6CE3F96056C399AF1311129AF7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "476f3fcb02d6c48705c4ab43223d08c42f9b5e2e2ead7e811de2cbdb847ebd34"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "182a3cdc49febc6ce3f96056c399af1311129af7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Logging.Console.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Logging.Console.dll-6D982CD9110A4A9409CCD22CEACFA4619B4B9CD1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1a1537feab4be72e18ef0eea2de4ab7954c3c3925c39d61daf527e1ce26e2af4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6d982cd9110a4a9409ccd22ceacfa4619b4b9cd1"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Logging.Abstractions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Logging.Abstractions.dll-02EC010722BBD1740782B502DF30D4475AEBE5F2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d575c9d1543ca726ce14dbdffd103e93ea527cd46bb28316da1f4122dbc55d56"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "02ec010722bbd1740782b502df30d4475aebe5f2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Telnet.Server.pdb",
+      "SPDXID": "SPDXRef-File--Telnet.Server.pdb-9B6B167A06510ECFF7123CBA1014CE049E53A466",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc6156e33a08568f7ca3a908b2a5acb7d6fc7c7218af88724ffd1ec5ab652a84"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "9b6b167a06510ecff7123cba1014ce049e53a466"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Telnet.Server.dll",
+      "SPDXID": "SPDXRef-File--Telnet.Server.dll-41DEC6C94C55A0E1FF2CAAC36024FD45EE709ABF",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9b271ffa539397ea34248c4f13b60af018c4e5f8e02806d124a1508b219e9eb0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "41dec6c94c55a0e1ff2caac36024fd45ee709abf"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Configuration.Binder.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Configuration.Binder.dll-144C4FA6C3CEF6B532CE7B7C3C27753BDA514714",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c0d2a11b73afc7c8eac5bb1ccf60002e5b132df23a18bd9dc8385eeb7992b283"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "144c4fa6c3cef6b532ce7b7c3c27753bda514714"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.FileSystemGlobbing.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.FileSystemGlobbing.dll-E0F87D149CB7A7BD30EC407F801F4EA4FA210F12",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "be2897386d1fc215a86d3d1343564e262641751bd846559b0ed8f3fba77cb102"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "e0f87d149cb7a7bd30ec407f801f4ea4fa210f12"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Telnet.Server.deps.json",
+      "SPDXID": "SPDXRef-File--Telnet.Server.deps.json-7F96482EEC0DDE10F24FE414275ECF5921AFAC6C",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "49d203d61fc01102616c7772eb695c2807f01b11782bf6bb70af343112ad90f3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7f96482eec0dde10f24fe414275ecf5921afac6c"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./DotNetty.Codecs.dll",
+      "SPDXID": "SPDXRef-File--DotNetty.Codecs.dll-07550343515FF0C23D8B3B84D7194BC3988B26B3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "751385e4724d654b7711be10bab7d543e7072189d6c6513e028074a500970f29"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "07550343515ff0c23d8b3b84d7194bc3988b26b3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Configuration.FileExtensions.dll-5AD4642C871D47E022080F5C707DA159B432EFE7",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9f67d13f6ff5b463736821793d4e218134a51caf3ce8ebe205fd9801db3735d1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5ad4642c871d47e022080f5c707da159b432efe7"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Logging.Configuration.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Logging.Configuration.dll-B16ABC24AA3CD064722C40C75C33819EF221E1C5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aa17d34ef4c4acb44f88823e73dbeabcdb71070729289f487795825e3d71b55d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b16abc24aa3cd064722c40c75c33819ef221e1c5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Telnet.Server.exe",
+      "SPDXID": "SPDXRef-File--Telnet.Server.exe-1CEABA874076EC48A31725651EDB6A87F1CD4CC5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "86618f8b2f0465dae3f2114ea13842c6997fa39ffcacd5ea23276f76b5c83cc4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "1ceaba874076ec48a31725651edb6a87f1cd4cc5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./DotNetty.Transport.dll",
+      "SPDXID": "SPDXRef-File--DotNetty.Transport.dll-B68C0FBED03E726BCC0224BCB6503DF40EE9C6CA",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "6f4cc2f7ea4b4d75d4f8b9c0a9cb9b1c8fba89b5184cf19db31a5dc5585c5ab4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b68c0fbed03e726bcc0224bcb6503df40ee9c6ca"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.FileProviders.Abstractions.dll-3029F45A1397291B4E7EEE9DB9B5DCDE5A47AB7D",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ecfcef11c42fa4ad5cf2d4d7f553c8f0017e5eb7a4a9b032b4d0505c98ef4ef4"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "3029f45a1397291b4e7eee9db9b5dcde5a47ab7d"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Configuration.Abstractions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Configuration.Abstractions.dll-C524C7D46A343B75A64BF52B19E3C70C453F9061",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4eb5eb7e28a5548cd904fe1a9c3569adef91f52b654db8a3c56a0a5177a09eb"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "c524c7d46a343b75a64bf52b19e3c70c453f9061"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./DotNetty.Common.dll",
+      "SPDXID": "SPDXRef-File--DotNetty.Common.dll-B3613DC0779F6C6404C0D93A0CF491EC9CE0AA9A",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "68637237edeae043c9737517b6ff23c4d8dd4f151005bbfb396eb4a89bb16979"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "b3613dc0779f6c6404c0d93a0cf491ec9ce0aa9a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.FileProviders.Physical.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.FileProviders.Physical.dll-616A44C9B1B0D4D6AD6AD37B41556A6E727CC3E5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "b17ba3bc63190e004167d1ea7dc12af57b0cd29bf0ca13edeb4340f6a2c3cc62"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "616a44c9b1b0d4d6ad6ad37b41556a6e727cc3e5"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.DependencyInjection.Abstractions.dll-CB8C35306AFD15358104ECFE70E724AD9C753E6F",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "9ccd830351aa28bc683d4f8d1cefd9e724161f972d25bfb64eee5bf55c48c5e3"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "cb8c35306afd15358104ecfe70e724ad9c753e6f"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Logging.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Logging.dll-7BEA9201A90F69FF958F5BF64E959D1E4021F252",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "183650081b551dfad967a7cbf79946a229cb79458b8d04a12db7c44b03bb9ab7"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "7bea9201a90f69ff958f5bf64e959d1e4021f252"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Telnet.Server.runtimeconfig.json",
+      "SPDXID": "SPDXRef-File--Telnet.Server.runtimeconfig.json-5028BA7F3503486654CACAD0D327E9C18FDE0DE3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "f03c65b081ae722b8c7e574c583688d95ee15b246a6bf5c9a79cb496cbd27583"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "5028ba7f3503486654cacad0d327e9c18fde0de3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./DotNetty.Handlers.dll",
+      "SPDXID": "SPDXRef-File--DotNetty.Handlers.dll-744CA550F75EAB72F934F73BD011CDF76CF843D2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "91401c31d2d6c6150ba2805f76676a679befa13b0fb99dd0aa14ee0ba43d3747"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "744ca550f75eab72f934f73bd011cdf76cf843d2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Options.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Options.dll-6EC0C1FE1332912086247080B55B06623C78326E",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "786112cb2f6646ef1170219a8c0bb813c9f14a6781e67c6266414f55a679565d"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "6ec0c1fe1332912086247080b55b06623c78326e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Primitives.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Primitives.dll-376636C20CEE083DA54D4146479032170EC7231B",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8ce9a85927ec7507b11ffe90080e7a811d51304a9e8b1da20c350159ba403902"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "376636c20cee083da54d4146479032170ec7231b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.DependencyInjection.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.DependencyInjection.dll-EB7D6D2250BF2509B89166BC22C07423AC9C2D91",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2aa8182b5356a8cc5c35fc3641a87e814857d8d9be399ac78f260343754d09e0"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "eb7d6d2250bf2509b89166bc22c07423ac9c2d91"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+      "SPDXID": "SPDXRef-File--Microsoft.Extensions.Options.ConfigurationExtensions.dll-009750C08E5A3DDCA91DB2538DFF9203E5E54608",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "a4244cbd8e903a2a5c2c43f01b48c355818c6183ea8efbbbd9c3c5b72e8364a1"
+        },
+        {
+          "algorithm": "SHA1",
+          "checksumValue": "009750c08e5a3ddca91db2538dff9203e5e54608"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoInFiles": [
+        "NOASSERTION"
+      ],
+      "copyrightText": "NOASSERTION"
+    }
+  ],
+  "packages": [
+    {
+      "name": "DotNetty.Buffers",
+      "SPDXID": "SPDXRef-Package-AE030DCFBD38ABD4EEADF329517E36E979BE0C9C2FEAF1F4413EDBE1849C7BFD",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/DotNetty.Buffers%400.7.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Binder",
+      "SPDXID": "SPDXRef-Package-2C28ECE830F3DD5BAD39C32C808AB86970A2A119236A49AAB28795313A44E90F",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.Binder%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Abstractions",
+      "SPDXID": "SPDXRef-Package-0AE2491E25B5519C1AD28BADFF801345FA8B0E7EABCFCA535F69E67DF9DD34D7",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging.Abstractions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "SPDXID": "SPDXRef-Package-A2E7F5204EA1E0C23FADD04550667565ECE299E88BCD7A640581915F5375082B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.DependencyInjection.Abstractions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Primitives",
+      "SPDXID": "SPDXRef-Package-0D80EDE302445F9E999E0EA0A9DCD90873933EB9ECEEF2EC03BFBEE30F55BA0D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Primitives%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration",
+      "SPDXID": "SPDXRef-Package-4AC09967992A0930398D05F74E5B04791840FC8D4A5D15C1DCC287435AF9C1F6",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.1",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration%406.0.1"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.FileProviders.Abstractions",
+      "SPDXID": "SPDXRef-Package-FC4DE0364DF947B8A22E4C6D42B69A837478599D2EC098346B0D2C2FB1A5180B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.FileProviders.Abstractions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "SPDXID": "SPDXRef-Package-CF039C144446467A3F588D86A78139C98A9AAF5E04CBC09DCA2D3428FCE6F47D",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Options.ConfigurationExtensions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Json",
+      "SPDXID": "SPDXRef-Package-B7870036445659F8B413A275A8ACA29063CA1CA948E086FD545998230D3A9B5B",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.Json%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Options",
+      "SPDXID": "SPDXRef-Package-32049A26A96C882E4E15C4654BD671B483BF363AAFA6490DA833D497487DCAAB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Options%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.FileExtensions",
+      "SPDXID": "SPDXRef-Package-93A46CF88698F12F1046CAD342C8E8CD5DBBC86692975581D74EECA7DE4DAE26",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.FileExtensions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "DotNetty.Codecs",
+      "SPDXID": "SPDXRef-Package-D7335AE880330891E31522A4351A6272099729F01C1F36C4B86B8545B81A5654",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/DotNetty.Codecs%400.7.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Text.Encodings.Web",
+      "SPDXID": "SPDXRef-Package-AC07F1EF24A7A4C8FDC4F792CC2A1DD9C6B82F0968E587304EB02252F0D02FEB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Text.Encodings.Web%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Console",
+      "SPDXID": "SPDXRef-Package-5C5BB3889A4F053C32BBC2F6871649010ECBA29B2E0D2E8F40916C722F739D13",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging.Console%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.DependencyInjection",
+      "SPDXID": "SPDXRef-Package-7ED20AFFF34DCBA493F6453415A9A27C51262AD7D13B3FC58F75A9FD632C4771",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.DependencyInjection%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "DotNetty.Transport",
+      "SPDXID": "SPDXRef-Package-22374A569035E6B43854DA0E06DF73AFEADD3A0A68DE0B95F8AB77E925A12D08",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/DotNetty.Transport%400.7.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.FileProviders.Physical",
+      "SPDXID": "SPDXRef-Package-6F5E80FFCDDDE7BFAA2D9701EB51CFE6D36EEB816F69A072CB0C28A8C32A0EA9",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.FileProviders.Physical%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "DotNetty.Common",
+      "SPDXID": "SPDXRef-Package-BFF41FAD7C1CE0DE8F294E7A9A903BB16D12E2824D18950E614FFCD28C66EF11",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/DotNetty.Common%400.7.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Runtime.CompilerServices.Unsafe",
+      "SPDXID": "SPDXRef-Package-1B140F7FA3F784DD56CC7A8B4145E9AD58D8CDD4C249A0F27F2262E47C9B41AF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Runtime.CompilerServices.Unsafe%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.FileSystemGlobbing",
+      "SPDXID": "SPDXRef-Package-8C55047E348C9184B9721E04A5B65FEEA223298E55EAC7AD04AB16F182198BFF",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.FileSystemGlobbing%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Logging",
+      "SPDXID": "SPDXRef-Package-9E13233F3BA19AF5A5326C3E1B35DFCA3DE4FE5B00BBC38B9ED20970871A0BAB",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "DotNetty.Handlers",
+      "SPDXID": "SPDXRef-Package-FB94D28FD06285B58C61955ACD57CC45D77DB2E56FBAC188B8AAC4CD1E91B801",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "0.7.4",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/DotNetty.Handlers%400.7.4"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Logging.Configuration",
+      "SPDXID": "SPDXRef-Package-8C57A61E1BDE4A9A68AC6E257CE1EF43159FC5AE43D18B82C7955B8E161CD742",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Logging.Configuration%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Microsoft.Extensions.Configuration.Abstractions",
+      "SPDXID": "SPDXRef-Package-479EA9CE199C369E34ABB59C6B71D59384D6337B0A233A2C2010131407AD2DF1",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/Microsoft.Extensions.Configuration.Abstractions%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "System.Text.Json",
+      "SPDXID": "SPDXRef-Package-E790A28BAF84925A8A85170B0862D814A79BE062675BBA7D413EFB3F9018A138",
+      "downloadLocation": "NOASSERTION",
+      "filesAnalyzed": false,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "6.0.0",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceType": "purl",
+          "referenceLocator": "pkg:nuget/System.Text.Json%406.0.0"
+        }
+      ],
+      "supplier": "NOASSERTION"
+    },
+    {
+      "name": "Telnet.Server",
+      "SPDXID": "SPDXRef-RootPackage",
+      "downloadLocation": "NOASSERTION",
+      "packageVerificationCode": {
+        "packageVerificationCodeValue": "e053cf12eeb28d2ad705ac4b3a4938f4a7418722"
+      },
+      "filesAnalyzed": true,
+      "licenseConcluded": "NOASSERTION",
+      "licenseInfoFromFiles": [
+        "NOASSERTION"
+      ],
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "versionInfo": "1.0.0",
+      "supplier": "Organization: Microsoft",
+      "hasFiles": [
+        "SPDXRef-File--Microsoft.Extensions.Options.ConfigurationExtensions.dll-009750C08E5A3DDCA91DB2538DFF9203E5E54608",
+        "SPDXRef-File--Microsoft.Extensions.Primitives.dll-376636C20CEE083DA54D4146479032170EC7231B",
+        "SPDXRef-File--Telnet.Server.runtimeconfig.json-5028BA7F3503486654CACAD0D327E9C18FDE0DE3",
+        "SPDXRef-File--Microsoft.Extensions.Logging.dll-7BEA9201A90F69FF958F5BF64E959D1E4021F252",
+        "SPDXRef-File--Microsoft.Extensions.DependencyInjection.Abstractions.dll-CB8C35306AFD15358104ECFE70E724AD9C753E6F",
+        "SPDXRef-File--DotNetty.Common.dll-B3613DC0779F6C6404C0D93A0CF491EC9CE0AA9A",
+        "SPDXRef-File--Microsoft.Extensions.FileProviders.Physical.dll-616A44C9B1B0D4D6AD6AD37B41556A6E727CC3E5",
+        "SPDXRef-File--Microsoft.Extensions.Configuration.Abstractions.dll-C524C7D46A343B75A64BF52B19E3C70C453F9061",
+        "SPDXRef-File--Telnet.Server.dll-41DEC6C94C55A0E1FF2CAAC36024FD45EE709ABF",
+        "SPDXRef-File--Microsoft.Extensions.Logging.Abstractions.dll-02EC010722BBD1740782B502DF30D4475AEBE5F2",
+        "SPDXRef-File--Microsoft.Extensions.Configuration.dll-5C5AD43797BBE3B9AB09D9B60CA34F2053F75EEC",
+        "SPDXRef-File--DotNetty.Buffers.dll-73D26FE90F85431007400541EB5B9581CCC533CB",
+        "SPDXRef-File--Microsoft.Extensions.DependencyInjection.dll-EB7D6D2250BF2509B89166BC22C07423AC9C2D91",
+        "SPDXRef-File--DotNetty.Handlers.dll-744CA550F75EAB72F934F73BD011CDF76CF843D2",
+        "SPDXRef-File--Microsoft.Extensions.FileProviders.Abstractions.dll-3029F45A1397291B4E7EEE9DB9B5DCDE5A47AB7D",
+        "SPDXRef-File--DotNetty.Transport.dll-B68C0FBED03E726BCC0224BCB6503DF40EE9C6CA",
+        "SPDXRef-File--Telnet.Server.exe-1CEABA874076EC48A31725651EDB6A87F1CD4CC5",
+        "SPDXRef-File--Microsoft.Extensions.Logging.Configuration.dll-B16ABC24AA3CD064722C40C75C33819EF221E1C5",
+        "SPDXRef-File--Microsoft.Extensions.Configuration.FileExtensions.dll-5AD4642C871D47E022080F5C707DA159B432EFE7",
+        "SPDXRef-File--DotNetty.Codecs.dll-07550343515FF0C23D8B3B84D7194BC3988B26B3",
+        "SPDXRef-File--Telnet.Server.pdb-9B6B167A06510ECFF7123CBA1014CE049E53A466",
+        "SPDXRef-File--Microsoft.Extensions.Logging.Console.dll-6D982CD9110A4A9409CCD22CEACFA4619B4B9CD1",
+        "SPDXRef-File--Microsoft.Extensions.Configuration.Json.dll-182A3CDC49FEBC6CE3F96056C399AF1311129AF7",
+        "SPDXRef-File--dotnetty.com.pfx-88B8E4D05BCB783ED7C20584C3DE4B4A049E875D",
+        "SPDXRef-File--Microsoft.Extensions.Options.dll-6EC0C1FE1332912086247080B55B06623C78326E",
+        "SPDXRef-File--Telnet.Server.deps.json-7F96482EEC0DDE10F24FE414275ECF5921AFAC6C",
+        "SPDXRef-File--Microsoft.Extensions.FileSystemGlobbing.dll-E0F87D149CB7A7BD30EC407F801F4EA4FA210F12",
+        "SPDXRef-File--Microsoft.Extensions.Configuration.Binder.dll-144C4FA6C3CEF6B532CE7B7C3C27753BDA514714",
+        "SPDXRef-File--appsettings.json-5F1D4EECB4E6935B25B4E5F7DD74947A6002792D"
+      ]
+    }
+  ],
+  "externalDocumentRefs": [],
+  "relationships": [
+    {
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-RootPackage",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8C57A61E1BDE4A9A68AC6E257CE1EF43159FC5AE43D18B82C7955B8E161CD742",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FB94D28FD06285B58C61955ACD57CC45D77DB2E56FBAC188B8AAC4CD1E91B801",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-1B140F7FA3F784DD56CC7A8B4145E9AD58D8CDD4C249A0F27F2262E47C9B41AF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-7ED20AFFF34DCBA493F6453415A9A27C51262AD7D13B3FC58F75A9FD632C4771",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-5C5BB3889A4F053C32BBC2F6871649010ECBA29B2E0D2E8F40916C722F739D13",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AC07F1EF24A7A4C8FDC4F792CC2A1DD9C6B82F0968E587304EB02252F0D02FEB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-D7335AE880330891E31522A4351A6272099729F01C1F36C4B86B8545B81A5654",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-93A46CF88698F12F1046CAD342C8E8CD5DBBC86692975581D74EECA7DE4DAE26",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-32049A26A96C882E4E15C4654BD671B483BF363AAFA6490DA833D497487DCAAB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-B7870036445659F8B413A275A8ACA29063CA1CA948E086FD545998230D3A9B5B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-9E13233F3BA19AF5A5326C3E1B35DFCA3DE4FE5B00BBC38B9ED20970871A0BAB",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-BFF41FAD7C1CE0DE8F294E7A9A903BB16D12E2824D18950E614FFCD28C66EF11",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-6F5E80FFCDDDE7BFAA2D9701EB51CFE6D36EEB816F69A072CB0C28A8C32A0EA9",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-CF039C144446467A3F588D86A78139C98A9AAF5E04CBC09DCA2D3428FCE6F47D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-FC4DE0364DF947B8A22E4C6D42B69A837478599D2EC098346B0D2C2FB1A5180B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-4AC09967992A0930398D05F74E5B04791840FC8D4A5D15C1DCC287435AF9C1F6",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-E790A28BAF84925A8A85170B0862D814A79BE062675BBA7D413EFB3F9018A138",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-479EA9CE199C369E34ABB59C6B71D59384D6337B0A233A2C2010131407AD2DF1",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-22374A569035E6B43854DA0E06DF73AFEADD3A0A68DE0B95F8AB77E925A12D08",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0AE2491E25B5519C1AD28BADFF801345FA8B0E7EABCFCA535F69E67DF9DD34D7",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-2C28ECE830F3DD5BAD39C32C808AB86970A2A119236A49AAB28795313A44E90F",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-AE030DCFBD38ABD4EEADF329517E36E979BE0C9C2FEAF1F4413EDBE1849C7BFD",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-8C55047E348C9184B9721E04A5B65FEEA223298E55EAC7AD04AB16F182198BFF",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-0D80EDE302445F9E999E0EA0A9DCD90873933EB9ECEEF2EC03BFBEE30F55BA0D",
+      "spdxElementId": "SPDXRef-RootPackage"
+    },
+    {
+      "relationshipType": "DEPENDS_ON",
+      "relatedSpdxElement": "SPDXRef-Package-A2E7F5204EA1E0C23FADD04550667565ECE299E88BCD7A640581915F5375082B",
+      "spdxElementId": "SPDXRef-RootPackage"
+    }
+  ],
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "Telnet.Server 1.0.0",
+  "documentNamespace": "https://companyName.com/teamName/Telnet.Server/Telnet.Server/1.0.0/t9IEtt_ojU-o7056kAwcsA",
+  "creationInfo": {
+    "created": "2022-09-02T12:09:00Z",
+    "creators": [
+      "Organization: Microsoft",
+      "Tool: Microsoft.SBOMTool-0.1.13"
+    ]
+  },
+  "documentDescribes": [
+    "SPDXRef-RootPackage"
+  ]
+}

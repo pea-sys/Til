@@ -1,0 +1,93 @@
+[INFO] Log file: C:\Users\user\AppData\Local\Temp\GovCompDisc_Log_20220902210857.log 
+[INFO] Run correlation id: c1532fd4-5302-4bd4-a4f8-18d15e5d29f5 
+
+[INFO] Attempting to load default detectors 
+[INFO] 19 detectors were found in Microsoft.ComponentDetection.Detectors
+ 
+[WARN] Provided search path C:\Users\user\AppData\Local\Temp\.net\sbom-tool-win-x64\qhmp3t3o.f1t\Plugins does not exist. 
+[VERBOSE] Finished applying restrictions to detectors. 
+
+
+[INFO] Finding components... 
+[VERBOSE] yarn.lock 
+[VERBOSE] *.spdx.json 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Spdx.Spdx22ComponentDetector 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Yarn.YarnLockComponentDetector 
+[VERBOSE] Cargo.lock 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Rust.RustCrateDetector 
+[VERBOSE] Cargo.lock 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Rust.RustCrateV2Detector 
+[VERBOSE] Gemfile.lock 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Ruby.RubyComponentDetector 
+[VERBOSE] shrinkwrap.yaml:pnpm-lock.yaml 
+[INFO] Starting enumeration of C:\Users\user\source\repos\Telnet.Server\Telnet.Server 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Pnpm.PnpmComponentDetector 
+[VERBOSE] setup.py:requirements.txt 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Pip.PipComponentDetector 
+[VERBOSE] Excluding folder C:\Users\user\source\repos\Telnet.Server\Telnet.Server\bin\Debug\net6.0\_manifest\spdx_2.2 because it matched glob C:\Users\user\source\repos\Telnet.Server\Telnet.Server\bin\Debug\net6.0\_manifest\spdx_2.2. 
+[INFO] Enumerated 58 files and 8 directories in 00:00:00.0451333 
+[VERBOSE] Podfile.lock 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.CocoaPods.PodComponentDetector 
+[VERBOSE] go.mod:go.sum 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Go.GoComponentDetector 
+[VERBOSE] *.lockfile 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Gradle.GradleComponentDetector 
+[VERBOSE] *.nupkg:*.nuspec:nuget.config 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.NuGet.NuGetComponentDetector 
+[VERBOSE] project.assets.json 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.NuGet.NuGetProjectModelProjectCentricComponentDetector 
+[VERBOSE] package.json 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Npm.NpmComponentDetector 
+[VERBOSE] package-lock.json:npm-shrinkwrap.json:lerna.json 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Npm.NpmComponentDetectorWithRoots 
+[VERBOSE] pom.xml 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Maven.MvnCliComponentDetector 
+[INFO] No instructions received to scan docker images. 
+[VERBOSE] ivy.xml 
+[VERBOSE] Registered Microsoft.ComponentDetection.Detectors.Ivy.IvyDetector 
+[VERBOSE] Skipping maven detection as maven is not available in the local PATH. 
+[VERBOSE] Skipping Ivy detection as ant is not available in the local PATH. 
+[INFO]  
+[INFO] _______________________________________________________________________________________________________________________________________ 
+[INFO] |Component Detector Id         |Detection Time                |# Components Found            |# Explicitly Referenced                 | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |CocoaPods                     |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Go                            |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Gradle                        |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Ivy (Beta)                    |1.2 seconds                   |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Linux                         |1.1 seconds                   |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |MvnCli                        |1.1 seconds                   |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Npm                           |0.94 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |NpmWithRoots                  |0.95 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |NuGet                         |0.8 seconds                   |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |NuGetProjectCentric           |1.1 seconds                   |25                            |5                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Pip                           |1.1 seconds                   |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Pnpm                          |0.14 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Ruby                          |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |RustCrateDetector             |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |RustCrateV2Detector           |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |SPDX22SBOM                    |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Yarn                          |0.16 seconds                  |0                             |0                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO] |Total                         |1.2 seconds                   |25                            |5                                       | 
+[INFO] |______________________________|______________________________|______________________________|________________________________________| 
+[INFO]  
+
+[INFO] Detection time: 1.1776042 seconds. 
+[INFO] Scan Manifest file: C:\Users\user\AppData\Local\Temp\ScanManifest_20220902210857.json 
