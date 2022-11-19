@@ -22,7 +22,7 @@ private bool IsPNG(string filePath)
         }
 ```
 
-apng は新しめのフォーマットなので、もう古い環境では原始的な方法で判定できないかもしれません。  
+apng は新しめのフォーマットなので、古いフレームワークでは原始的な方法じゃないと判定できないかもしれません。  
 Zopfli のリポジトリの issue にも要望は挙がっていますが、対応は期待できません。  
 https://github.com/google/zopfli/issues/118  
 ImageMagick も似たような Issue がありますが長い討論の末、対応しているようです。  
