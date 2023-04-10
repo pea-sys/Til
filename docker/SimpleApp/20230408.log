@@ -1,0 +1,40 @@
+PS C:\Users\user\OneDrive\デスクトップ\docker-experiments\SimpleApp> docker image build -t example/echo/latest .
+[+] Building 272.6s (8/8) FINISHED
+ => [internal] load build definition from Dockerfile                                                               0.2s
+ => => transferring dockerfile: 127B                                                                               0.0s
+ => [internal] load .dockerignore                                                                                  0.2s
+ => => transferring context: 2B                                                                                    0.0s
+ => [internal] load metadata for docker.io/library/golang:1.9                                                      3.9s
+ => [1/3] FROM docker.io/library/golang:1.9@sha256:8b5968585131604a92af02f5690713efadf029cc8dad53f79280b87a80eb  264.0s
+ => => resolve docker.io/library/golang:1.9@sha256:8b5968585131604a92af02f5690713efadf029cc8dad53f79280b87a80eb13  0.1s
+ => => sha256:1607093a898cc241de8712e4361dcd907898fff35b945adca42db3963f3827b3 10.74MB / 10.74MB                  28.9s
+ => => sha256:9a8ea045c9261c180a34df19cfc9bb3c3f28f29b279bf964ee801536e8244f2f 4.34MB / 4.34MB                    27.1s
+ => => sha256:8b5968585131604a92af02f5690713efadf029cc8dad53f79280b87a80eb1354 3.10kB / 3.10kB                     0.0s
+ => => sha256:adc30ee332f9c780c4498376a6e426d39761ee5ff5e583dc293a601802b938ac 2.00kB / 2.00kB                     0.0s
+ => => sha256:ef89ef5c42a90ec98bda7bbef0495c1ca6f43a31d059148c368b71858de463d2 5.79kB / 5.79kB                     0.0s
+ => => sha256:55cbf04beb7001d222c71bfdeae780bda19d5cb37b8dbd65ff0d3e6a0b9b74e6 45.31MB / 45.31MB                  97.0s
+ => => sha256:d4eee24d4dacb41c21411e0477a741655303cdc48b18a948632c31f0f3a70bb8 50.06MB / 50.06MB                 184.0s
+ => => sha256:9c35c9787a2f7a0fbd6829b8ee0df1aebe44929788186d352b3a12f2046b3948 57.59MB / 57.59MB                 176.5s
+ => => sha256:8b376bbb244fec17e33ac56b13cc704d03f6fb06325a0cddcb88960fef7eb754 118.30MB / 118.30MB               235.0s
+ => => extracting sha256:55cbf04beb7001d222c71bfdeae780bda19d5cb37b8dbd65ff0d3e6a0b9b74e6                          6.2s
+ => => extracting sha256:1607093a898cc241de8712e4361dcd907898fff35b945adca42db3963f3827b3                          1.8s
+ => => extracting sha256:9a8ea045c9261c180a34df19cfc9bb3c3f28f29b279bf964ee801536e8244f2f                          0.6s
+ => => sha256:0d4eafcc732affec32a903b8897a068e60656b4b63d052a66feb1c8fedb3ba75 126B / 126B                       177.8s
+ => => sha256:186b06a99029b895a2934a57fcb86731eace7009cc059210358cabec2e8309e2 1.37kB / 1.37kB                   178.4s
+ => => extracting sha256:d4eee24d4dacb41c21411e0477a741655303cdc48b18a948632c31f0f3a70bb8                         20.8s
+ => => extracting sha256:9c35c9787a2f7a0fbd6829b8ee0df1aebe44929788186d352b3a12f2046b3948                         16.1s
+ => => extracting sha256:8b376bbb244fec17e33ac56b13cc704d03f6fb06325a0cddcb88960fef7eb754                         24.8s
+ => => extracting sha256:0d4eafcc732affec32a903b8897a068e60656b4b63d052a66feb1c8fedb3ba75                          0.0s
+ => => extracting sha256:186b06a99029b895a2934a57fcb86731eace7009cc059210358cabec2e8309e2                          0.0s
+ => [internal] load build context                                                                                  0.1s
+ => => transferring context: 400B                                                                                  0.0s
+ => [2/3] RUN mkdir /echo                                                                                          3.6s
+ => [3/3] COPY main.go /echo                                                                                       0.2s
+ => exporting to image                                                                                             0.3s
+ => => exporting layers                                                                                            0.2s
+ => => writing image sha256:e8bb071aeafb7c90dddb88aaddf4af2378c1768d0a772627b06d3d7347f46640                       0.0s
+ => => naming to docker.io/example/echo/latest
+PS C:\Users\user\OneDrive\デスクトップ\docker-experiments\SimpleApp> docker image ls
+REPOSITORY            TAG       IMAGE ID       CREATED          SIZE
+example/echo/latest   latest    e8bb071aeafb   26 minutes ago   750MB
+gihyodocker/echo      latest    3dbbae6eb30d   5 years ago      733MB
