@@ -33,5 +33,5 @@ Error code: Wsl/Service/WSL_E_DISTRO_NOT_FOUND
 - コントロールパネルの Windows の機能の有効化または無効化で Linux 用 Windows サブシステムにチェックがついていたら外す
 
 - 再起動後に、コントロールパネルの Windows の機能の有効化または無効化で Linux 用 Windows サブシステムにチェックをつける
-- MicroSoft Store で Ubuntu や Linux 用 Windows サブシステムをインストール
+- MicroSoft Store で Ubuntu や Linux 用 Windows サブシステムをインストール  
   ※ MicroSoft Store 経由で Linux 用 Windows サブシステムをインストールしなかった場合、「wsl --update」を実行
