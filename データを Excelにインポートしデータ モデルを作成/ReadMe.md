@@ -1,0 +1,3 @@
+次のチュートリアルでPowerPivotに触れてみる
+
+https://support.microsoft.com/ja-jp/office/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB-%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92-excel%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97-%E3%83%87%E3%83%BC%E3%82%BF-%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B-4b4e5ab4-60ee-465e-8195-09ebba060bf0
