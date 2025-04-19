@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercise 01 - Shapes</title>
+  </head>
+
+  <body>
+    <canvas width="600" height="200"></canvas>
+    <!-- 
+    Chapter 17 - Drawing on Canvas
+    Exercise 01 - Shapes
+  -->
+    <script>
+      let cx = document.querySelector("canvas").getContext("2d");
+
+      // 1) A trapezoid
+      function trapezoid(x, y) {
+        cx.beginPath();
+        cx.moveTo(x, y);
+        cx.lineTo(x + 50, y);
+        cx.lineTo(x + 70, y + 50);
+        cx.lineTo(x - 20, y + 50);
+        cx.closePath();
+        cx.stroke();
+      }
+      trapezoid(30, 30);
+    </script>
+  </body>
+</html>
